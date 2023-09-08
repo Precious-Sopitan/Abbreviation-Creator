@@ -1,0 +1,34 @@
+  .form-container {
+    width: 25rem;
+    height: 15rem;
+    margin-left: 28rem;
+    margin-top: 10rem;
+    padding:10px;
+    border: 1px solid ;
+    border-radius: 10px;
+  }
+
+  h2{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+
+  .form-input{
+   margin-top: 2rem;
+   padding-top: 0.7rem;
+   width: 15rem;
+  }
+
+.form-submit {
+    width: 50%;
+    height: 3rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin: 2rem 0 2rem 4rem ;
+}
+
+
